@@ -18,7 +18,7 @@ and the number of quizzes you want to take.
 - NPM
 
 🚀 **Getting Started**
-1. Clone the repository: `git clone https://github.com/username/Quizzical.git`
+1. Clone the repository: `git clone git@github.com:vivekp1118/Quizzical.git`
 2. Install dependencies: `npm install`
 3. Start the app: `npm start`
 4. Open your browser and go to `http://localhost:3000`
