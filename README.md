@@ -1,5 +1,7 @@
 # 📝 Quizzical
-📱 Quizzical is React app that uses the OTDB API to generate quiz questions. 
+Using the power of the OTDB API, the app generates a unique set of questions for each quiz, 
+making every experience different and challenging. You can also choose the level of difficulty you prefer, 
+and the number of quizzes you want to take.
 
 💡 **Features**
 - Multiple types of quizzes available
